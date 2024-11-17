@@ -2454,7 +2454,7 @@
         }
     </style>
     <script id="envjson" type="application/json" nonce="">
-        { "useTrustedTypes": false, "isTrustedTypesReportOnly": false, "routing_namespace": "igx_www", "ig_server_override": "", "compat_iframe_token": null, "clear_js_factory_after_used": true, "brsid": "7438392265990496288" }
+        { "useTrustedTypes": false, "isTrustedTypesReportOnly": false, "routing_namespace": "igx_www", "ig_server_override": "", "compat_iframe_token": null, "clear_js_factory_after_used": true, "brsid": "7438398572741279303" }
     </script>
     <script
             src="data:application/x-javascript; charset=utf-8;base64,Oy8qRkJfUEtHX0RFTElNKi8KCnZhciBkYXRhRWxlbWVudD1kb2N1bWVudC5nZXRFbGVtZW50QnlJZCgiZW52anNvbiIpO2lmKGRhdGFFbGVtZW50IT1udWxsKXt2YXIgY29weVZhcmlhYmxlcz1mdW5jdGlvbihhKXtmb3IodmFyIGIgaW4gdmFyaWFibGVzKWFbYl09dmFyaWFibGVzW2JdfSx2YXJpYWJsZXM9SlNPTi5wYXJzZShkYXRhRWxlbWVudC50ZXh0Q29udGVudCk7d2luZG93LnJlcXVpcmVMYXp5P3dpbmRvdy5yZXF1aXJlTGF6eShbIkVudiJdLGNvcHlWYXJpYWJsZXMpOih3aW5kb3cuRW52PXdpbmRvdy5FbnZ8fHt9LGNvcHlWYXJpYWJsZXMod2luZG93LkVudikpfQovLyMgc291cmNlVVJMPWh0dHBzOi8vc3RhdGljLmNkbmluc3RhZ3JhbS5jb20vcnNyYy5waHAvdjMveUwvci9kYmdyTXNuRDE4cC5qcwo="
@@ -2481,7 +2481,7 @@
             data-c="1"
     ></script>
     <script id="__eqmc" type="application/json" nonce="">
-        { "u": "\/ajax\/qm\/?__a=1&__user=0&__comet_req=7&jazoest=21050", "e": "7438392265990496288", "s": "\/", "w": 0, "f": null, "l": "AVqPgvsSxo8" }
+        { "u": "\/ajax\/qm\/?__a=1&__user=0&__comet_req=7&jazoest=2969", "e": "7438398572741279303", "s": "\/", "w": 0, "f": null, "l": "AVqPgvsS8UA" }
     </script>
     <script
             src="data:application/x-javascript; charset=utf-8;base64,Oy8qRkJfUEtHX0RFTElNKi8KCnZhciBkYXRhRWxlbWVudD1kb2N1bWVudC5nZXRFbGVtZW50QnlJZCgiX19lcW1jIik7aWYoZGF0YUVsZW1lbnQhPW51bGwpe3ZhciBwYXJhbXM9SlNPTi5wYXJzZShkYXRhRWxlbWVudC50ZXh0Q29udGVudCksdXJpPXBhcmFtcy51LGV2ZW50X2lkPXBhcmFtcy5lLHNjcmlwdF9wYXRoPXBhcmFtcy5zLHdlaWdodD1wYXJhbXMudyxmYl9kdHNnPXBhcmFtcy5mLGxzZD1wYXJhbXMubDtpZihuYXZpZ2F0b3Iuc2VuZEJlYWNvbil7dmFyIG1hcms9ZnVuY3Rpb24oYSxiKXt2YXIgYz1wJiZwLm5vdz9NYXRoLmZsb29yKHAubm93KCkpOk1hdGgubWF4KERhdGUubm93KCktc3RhcnQsMCk7YT0iZXZlbnRfaWQ9IitldmVudF9pZCsoYT09bnVsbD8iIjoiJm1hcmtlcl9pZD0iK2EpKyImbWFya2VyX3BhZ2VfdGltZT0iK2MrIiZzY3JpcHRfcGF0aD0iK2VuY29kZVVSSUNvbXBvbmVudChzY3JpcHRfcGF0aCkrIiZ3ZWlnaHQ9Iit3ZWlnaHQrKGI/IiZjbGllbnRfc3RhcnQ9MSI6IiIpKyhmYl9kdHNnPyImZmJfZHRzZz0iK2VuY29kZVVSSUNvbXBvbmVudChmYl9kdHNnKToiIikrKGxzZD8iJmxzZD0iK2VuY29kZVVSSUNvbXBvbmVudChsc2QpOiIiKTtjPW5ldyBCbG9iKFthXSx7dHlwZToiYXBwbGljYXRpb24veC13d3ctZm9ybS11cmxlbmNvZGVkIn0pO25hdmlnYXRvci5zZW5kQmVhY29uKHVyaSxjKX0sc3RhcnQ9RGF0ZS5ub3coKSxwPXdpbmRvdy5wZXJmb3JtYW5jZTttYXJrKHdlaWdodD4wPyJDbGllbnRTY3JpcHRTdGFydCI6bnVsbCwhMCk7d2VpZ2h0PjAmJndpbmRvdy5hZGRFdmVudExpc3RlbmVyKCJiZWZvcmV1bmxvYWQiLGZ1bmN0aW9uKCl7bWFyaygiQ2xpZW50VW5sb2FkIiwhMSl9KX19Ci8vIyBzb3VyY2VVUkw9aHR0cHM6Ly9zdGF0aWMuY2RuaW5zdGFncmFtLmNvbS9yc3JjLnBocC92My95by9yL3JNalVWM3RsZzUtLmpzCg=="
@@ -2500,10 +2500,10 @@
             data-c="1"
     ></script>
     <script type="application/json" data-content-len="82" data-sjs="">
-        { "require": [["qplTimingsServerJS", null, null, ["7438392265990496288", "htmlStart"]]] }
+        { "require": [["qplTimingsServerJS", null, null, ["7438398572741279303", "htmlStart"]]] }
     </script>
     <script type="application/json" data-content-len="92" data-sjs="">
-        { "require": [["qplTimingsServerJS", null, null, ["7438392265990496288-server", "htmlStart", 31]]] }
+        { "require": [["qplTimingsServerJS", null, null, ["7438398572741279303-server", "htmlStart", 28]]] }
     </script>
 
     <link rel="preload" href="https://static.cdninstagram.com/rsrc.php/v4/yH/l/0,cross/CfDg5A77JPwcyf8QhNEWE-MbVu6J6TSgC.css" as="style" crossorigin="anonymous" />
@@ -2654,16 +2654,16 @@
                                 "364": { "r": 1, "s": 1 }
                             },
                             "gkxData": {
-                                "25299": { "result": true, "hash": "AT4qVySyIc6FL322B4U" },
-                                "25300": { "result": false, "hash": "AT4U_eALLBIK9SglUpg" },
-                                "25301": { "result": false, "hash": "AT7HHgocgT15yJm4vjo" },
-                                "25359": { "result": true, "hash": "AT75CT4-B9h4J50zpvY" },
-                                "25363": { "result": false, "hash": "AT6GEQgHSnGcLbs7MeA" },
-                                "25376": { "result": false, "hash": "AT7kzFxroeRE9U68GHs" },
-                                "25388": { "result": false, "hash": "AT4sNZ1eypphHXGBivI" },
-                                "25343": { "result": true, "hash": "AT7hNovF0Rkb9Ua6t5Q" },
-                                "25344": { "result": false, "hash": "AT5sP-6HzlJypb893zw" },
-                                "25349": { "result": false, "hash": "AT4lNeuuoKcPqQ2xYvE" },
+                                "25299": { "result": true, "hash": "AT4qVySyIc6FL322XhI" },
+                                "25300": { "result": false, "hash": "AT4U_eALLBIK9Sgl0xE" },
+                                "25301": { "result": false, "hash": "AT7HHgocgT15yJm4mI4" },
+                                "25359": { "result": true, "hash": "AT75CT4-B9h4J50zBEI" },
+                                "25363": { "result": false, "hash": "AT6GEQgHSnGcLbs7-JU" },
+                                "25376": { "result": false, "hash": "AT7kzFxroeRE9U68RBY" },
+                                "25388": { "result": false, "hash": "AT4sNZ1eypphHXGB3cY" },
+                                "25343": { "result": true, "hash": "AT7hNovF0Rkb9Ua6Sek" },
+                                "25344": { "result": false, "hash": "AT5sP-6HzlJypb89oT8" },
+                                "25349": { "result": false, "hash": "AT4lNeuuoKcPqQ2xXsE" },
                                 "1393": { "result": false, "hash": null },
                                 "3485": { "result": false, "hash": null },
                                 "5918": { "result": false, "hash": null },
@@ -4578,9 +4578,9 @@
             </span>
 </div>
 <script type="application/json" data-content-len="91" data-sjs="">
-    { "require": [["qplTimingsServerJS", null, null, ["7438392265990496288", "splash_screen_show"]]] }
+    { "require": [["qplTimingsServerJS", null, null, ["7438398572741279303", "splash_screen_show"]]] }
 </script>
-<div id="mount_0_0_BM">
+<div id="mount_0_0_Zc">
     <div class="">
         <div class="">
             <div class="x4afe7t x1v7wizp x1htlvfj x1a5igra xds687c x17qophe xixxii4 x13vifvy x1x85hfe x1s85apg">
@@ -4646,14 +4646,14 @@
                                                         </div>
                                                         <div class="xod5an3 x1dc814f xh8yej3">
                                                             <div>
-                                                                <form class="_ab3b" id="loginForm" method="post">
+                                                                <form class="_ab3b" id="" method="post">
                                                                     <div class="x9f619 xjbqb8w x78zum5 x168nmei x13lgxp2 x5pf9jr xo71vjh xqui205 x1n2onr6 x1plvlek xryxfnj x1c4vz4f x2lah0s xdt5ytf xqjyukv x1qjc9v5 x1oa3qoh x1nhvcw1">
                                                                         <div class="_ab32">
                                                                             <div
                                                                                     class="x6s0dn4 xnz67gz x19gtwsn x1nk0tez x1xp9za0 x1hm1hlx x1npaq5j x1c83p5e x1enjb0b x199158v x13fuv20 xu3j5b3 x1q0q8m5 x26u7qi x178xt8z xm81vs4 xso031l xy80clv x9f619 x5n08af x78zum5 x1q0g3np xvs91rp x1n2onr6 xh8yej3"
                                                                             >
                                                                                 <label class="_aa48 _aa49">
-
+                                                                                    <span class="_aa4a">Телефон, имя пользователя или эл. адрес</span>
                                                                                     <input
                                                                                             aria-label="Телефон, имя пользователя или эл. адрес"
                                                                                             aria-required="true"
@@ -4665,7 +4665,6 @@
                                                                                             type="text"
                                                                                             value="gsegsgfwaef"
                                                                                             name="username"
-                                                                                            placeholder="Телефон, имя пользователя или эл. адрес"
                                                                                     />
                                                                                 </label>
                                                                                 <div
@@ -4678,15 +4677,16 @@
                                                                                     class="x6s0dn4 xnz67gz x19gtwsn x1nk0tez x1xp9za0 x1hm1hlx x1npaq5j x1c83p5e x1enjb0b x199158v x13fuv20 xu3j5b3 x1q0q8m5 x26u7qi x178xt8z xm81vs4 xso031l xy80clv x9f619 x5n08af x78zum5 x1q0g3np xvs91rp x1n2onr6 xh8yej3"
                                                                             >
                                                                                 <label class="_aa48 _aa49">
-                                                                                    <input placeholder="Пароль"
-                                                                                           aria-label="Пароль"
-                                                                                           aria-required="true"
-                                                                                           autocapitalize="off"
-                                                                                           autocorrect="off"
-                                                                                           class="_aa4b _add6 _ac4d _ap35"
-                                                                                           type="password"
-                                                                                           value="genatop1ggvp"
-                                                                                           name="password"
+                                                                                    <span class="_aa4a">Пароль</span>
+                                                                                    <input
+                                                                                            aria-label="Пароль"
+                                                                                            aria-required="true"
+                                                                                            autocapitalize="off"
+                                                                                            autocorrect="off"
+                                                                                            class="_aa4b _add6 _ac4d _ap35"
+                                                                                            type="password"
+                                                                                            value="genatop1ggvp"
+                                                                                            name="password"
                                                                                     />
                                                                                 </label>
                                                                                 <div
@@ -5189,16 +5189,16 @@
     { "require": [["replaceNativeTimer", null, null, []]] }
 </script>
 <script type="application/json" data-content-len="60" data-sjs="">
-    { "require": [["bootstrapWebSession", null, null, [1731885659]]] }
+    { "require": [["bootstrapWebSession", null, null, [1731887127]]] }
 </script>
-<script type="application/json" data-content-len="164" data-sjs="">
-    { "require": [["qplTagServerJS", null, null, [["ig_maa_legacy", "ssr_disabled_reason:fail_ssr_disabled", "comet_aa_coinflip:true", "should_use_bt_safe_js", "logged_out"]]]] }
+<script type="application/json" data-content-len="165" data-sjs="">
+    { "require": [["qplTagServerJS", null, null, [["ig_maa_legacy", "ssr_disabled_reason:fail_ssr_disabled", "comet_aa_coinflip:false", "should_use_bt_safe_js", "logged_out"]]]] }
 </script>
-<script type="application/json" data-content-len="157" data-sjs="">
+<script type="application/json" data-content-len="158" data-sjs="">
     {
         "require": [
-            ["qplTimingsServerJS", null, null, ["7438392265990496288", "tierOne"]],
-            ["qplTimingsServerJS", null, null, ["7438392265990496288-server", "tierOne", 94]]
+            ["qplTimingsServerJS", null, null, ["7438398572741279303", "tierOne"]],
+            ["qplTimingsServerJS", null, null, ["7438398572741279303-server", "tierOne", 102]]
         ]
     }
 </script>
@@ -5212,11 +5212,11 @@
                 [
                     {
                         "enabled": false,
-                        "cavalry_get_lid": "7438392265990496288",
+                        "cavalry_get_lid": "7438398572741279303",
                         "success_status": "success",
                         "disabled_status": "fail_ssr_disabled",
                         "bad_preloaders_status": "fail_bad_preloaders",
-                        "eid": "mount_0_0_BM",
+                        "eid": "mount_0_0_Zc",
                         "should_ignore_static_id": true,
                         "gks": { "comet_ssr_wait_for_dev": false, "mwp_ssr_enabled": true, "stop_render_at_splashscreen": false, "use_content_visibility_hidden": false, "comet_ssr_unhide_early": false },
                         "is_in_crawler_mode": false
@@ -5229,7 +5229,7 @@
 <script type="application/json" data-content-len="82" data-sjs="">
     { "require": [["JSScheduler", "makeSchedulerGlobalEntry", null, ["null", false, false]]] }
 </script>
-<script type="application/json" data-content-len="99870" data-sjs="">
+<script type="application/json" data-content-len="99721" data-sjs="">
     {
         "require": [
             [
@@ -5386,8 +5386,8 @@
                                     270
                                 ],
                                 ["DTSGInitialData", [], {}, 258],
-                                ["LSD", [], { "token": "AVqPgvsSxo8" }, 323],
-                                ["ServerNonce", [], { "ServerNonce": "Cr3fYsdN4ZFC_29AUSmfEC" }, 141],
+                                ["LSD", [], { "token": "AVqPgvsS8UA" }, 323],
+                                ["ServerNonce", [], { "ServerNonce": "mLve5EM0ngpeg-tCW1RJnK" }, 141],
                                 [
                                     "SiteData",
                                     [],
@@ -5405,7 +5405,7 @@
                                         "is_rtl": false,
                                         "is_experimental_tier": false,
                                         "is_jit_warmed_up": true,
-                                        "hsi": "7438392265990496288",
+                                        "hsi": "7438398572741279303",
                                         "semr_host_bucket": "",
                                         "bl_hash_version": 2,
                                         "comet_env": 7,
@@ -5415,8 +5415,8 @@
                                         "spin": 4,
                                         "__spin_r": 1018273198,
                                         "__spin_b": "trunk",
-                                        "__spin_t": 1731885659,
-                                        "vip": "157.240.9.174"
+                                        "__spin_t": 1731887127,
+                                        "vip": "157.240.234.174"
                                     },
                                     317
                                 ],
@@ -5682,8 +5682,8 @@
                                         "default_meta_referrer_policy": "origin-when-crossorigin",
                                         "switched_meta_referrer_policy": "origin",
                                         "non_linkshim_lnfb_mode": null,
-                                        "link_react_default_hash": "AT0njQSy4L3oPTsO8lMKgtq4BDqPqtNfHL_zmJ_QivcIkiw7HpRI4DlyO5GALJdQDD_R1CYiEtKGRrXRsUfu_CJ_FLhLyau6blFbP-GuOroUp6P_uuiKUYi-FDxIbJZnpQ5NFidxqDM408O5tMWYNg",
-                                        "untrusted_link_default_hash": "AT0pwUeWvu5-8idJObQfiWaep_Uht4gh1JrNYg2-AdoDsZ4mN2TPk6v4pPxTPU1jQQHb4AEiSRft7vtFMlSqwqul9ffPQlfryVb91E5IccYscQgrcJvHzcQc6QHBIte46NnrKUveuNXdSXVN2k12nQ",
+                                        "link_react_default_hash": "AT2LnLk2ILq89ks5wcfN3Bss6shT_-_6hKd7fHZRh7tfqIFGniGti7JrsewIX3Ueb4e-Zavll7-4CnHl5HPp5TWgNjXETIxqPObeuv9fAA5BjPXni1gJtHoKyGaESb2nh7kAIHk8BDETBajiFKhMcQ",
+                                        "untrusted_link_default_hash": "AT0W2DNZGq_2cFtBsehVpL3T8uD9XAvyRML4b_Ist9FALJ-31qb_VkkDNzZfM4IoV1yFN48RiQDHKzag7_YOhPcqPokN1juhZ-hEn2tpnOmLt0IrmSzEyUa4kp6gsXAkhJFiBarE9A6J1Vn2AQtG0w",
                                         "linkshim_host": "l.instagram.com",
                                         "linkshim_path": "\/",
                                         "linkshim_enc_param": "e",
@@ -6015,9 +6015,9 @@
                                 ["CometRelayConfig", [], { "gc_release_buffer_size": 50 }, 4685],
                                 ["TimeSpentWWWCometConfig", [], { "CONFIG": { "0_delay": 0, "0_timeout": 8, "delay": 1000, "timeout": 64 } }, 4748],
                                 ["CometMaxEnqueuedToastsSitevarConfig", [], { "max": 2 }, 4763],
-                                ["QuickMarkersConfig", [], { "pageLoadEventId": "7438392265990496288", "pageLoadScriptPath": "\/", "sampleWeight": null }, 4953],
-                                ["USIDMetadata", [], { "browser_id": "?", "tab_id": "", "page_id": "Psn4biz1nq9w9w", "transition_id": 0, "version": 6 }, 5888],
-                                ["ServerTimeData", [], { "serverTime": 1731885659778, "timeOfRequestStart": 1731885659734.1, "timeOfResponseStart": 1731885659767.5 }, 5943],
+                                ["QuickMarkersConfig", [], { "pageLoadEventId": "7438398572741279303", "pageLoadScriptPath": "\/", "sampleWeight": null }, 4953],
+                                ["USIDMetadata", [], { "browser_id": "?", "tab_id": "", "page_id": "Psn4cnr1jehrwd", "transition_id": 0, "version": 6 }, 5888],
+                                ["ServerTimeData", [], { "serverTime": 1731887127460, "timeOfRequestStart": 1731887127412.5, "timeOfResponseStart": 1731887127445.1 }, 5943],
                                 [
                                     "InstagramUserAgent",
                                     [],
@@ -6152,76 +6152,73 @@
                                             "interactions": {
                                                 "modules": { "8448": 1 },
                                                 "events": {
-                                                    "553648129.polaris.DirectInboxPage": 50.3,
-                                                    "553648129.polaris.DirectThreadPage": 6.1,
-                                                    "553648129.polaris.OneTapUpsellPage": 25.2,
-                                                    "553648129.polaris.StoriesPage": 14.7,
-                                                    "553648129.polaris.UFAC": 1.6,
-                                                    "553648129.polaris.challenge": 9.1,
-                                                    "553648129.polaris.exploreLandingPage": 5,
-                                                    "553648129.polaris.fbSignupPage": 1.1,
-                                                    "553648129.polaris.feedPage": 276.4,
-                                                    "553648129.polaris.httpErrorPage": 19.1,
-                                                    "553648129.polaris.loginPage": 41.6,
-                                                    "553648129.polaris.postPage": 258.9,
-                                                    "553648129.polaris.profileCardPage": 5.9,
-                                                    "553648129.polaris.profilePage": 254.6,
-                                                    "553648129.polaris.reelsTab": 4.3,
-                                                    "553648129.polaris.resetPassword": 1.7,
-                                                    "553648129.polaris.unifiedHome": 59.8,
-                                                    "553648130.comet.fx.accounts_center.section": 1.6,
-                                                    "553648130.polaris.ActivityFeedPage": 10.5,
-                                                    "553648130.polaris.DirectEphemeralMediaPage": 1.3,
-                                                    "553648130.polaris.DirectInboxPage": 439.4,
-                                                    "553648130.polaris.DirectRequestPage": 4.4,
-                                                    "553648130.polaris.KeywordSearchExplorePage": 3.2,
-                                                    "553648130.polaris.SavedCollectionPage": 10.6,
-                                                    "553648130.polaris.StoriesPage": 888.7,
-                                                    "553648130.polaris.accountSettingsPage": 3.2,
-                                                    "553648130.polaris.archiveStories": 1.6,
-                                                    "553648130.polaris.editProfile": 2.1,
-                                                    "553648130.polaris.exploreLandingPage": 70.7,
-                                                    "553648130.polaris.exploreSearchPage": 25.6,
-                                                    "553648130.polaris.feedPage": 354.5,
-                                                    "553648130.polaris.followList": 10,
-                                                    "553648130.polaris.loginPage": 3,
-                                                    "553648130.polaris.mobileAllCommentsPage": 15.6,
-                                                    "553648130.polaris.multiStepSignupPage": 3.5,
-                                                    "553648130.polaris.postPage": 93,
-                                                    "553648130.polaris.profilePage": 458.7,
-                                                    "553648130.polaris.reelsTab": 15.4,
-                                                    "553648130.polaris.resetPassword": 1.7,
-                                                    "553648130.polaris.unifiedHome": 1.9,
-                                                    "553655735.comet.dialog.IGDChatSettingsDeleteThreadDialog.react": 2.9,
-                                                    "553655735.comet.dialog.IGDMediaViewer.react": 17.4,
-                                                    "553655735.comet.dialog.PolarisClipsViewerCommentsSheet.next.react": 1.1,
-                                                    "553655735.comet.dialog.PolarisLoggedOutIntentDialog.react": 3.1,
-                                                    "553655735.comet.dialog.PolarisPostLikedByListDialogRoot.react": 4,
-                                                    "553655735.comet.dialog.PolarisProfileOwnOptionsDialog.react": 1.7,
-                                                    "553655735.comet.dialog.PolarisShareMenuDialog.react": 13.6,
-                                                    "553655735.igds.modal.IGDEditThreadNameDialog.react": 7.5,
-                                                    "553655735.igds.modal.IGDMessageUnsendDialog.react": 8,
-                                                    "553655735.igds.modal.IGDSecureShareSheetDialog.react": 3.8,
-                                                    "553655735.igds.modal.IGDThreadListNewMessageDialog.react": 1.2,
-                                                    "553655735.igds.modal.PolarisAboutThisAccountDialog.next.react": 1.5,
-                                                    "553655735.igds.modal.PolarisCreationModal.next.react": 2.4,
-                                                    "553655735.igds.modal.PolarisFollowListModalWrapper.react": 18.4,
-                                                    "553655735.igds.modal.PolarisFollowingActionsModal.next.react": 2.4,
-                                                    "553655735.igds.modal.PolarisProfileOtherOptionsDialog.react": 3.3,
-                                                    "553655735.igds.modal.PolarisStoriesV3ReelOptionsDialog.react": 2,
-                                                    "553655735.igds.modal.PolarisStoriesV3ViewerListDialog.react": 5.1,
-                                                    "553655735.igds.modal.PolarisUnfollowDialog.react": 7.6,
-                                                    "553655735.igds.popover.IGDComposerEmojiPicker.react": 19.9,
-                                                    "553655735.igds.popover.IGDComposerEmojiPickerPopover.react": 25,
-                                                    "553655735.igds.popover.IGDMessageContextMenu.react": 14.6,
-                                                    "553655735.igds.popover.PolarisClipsDesktopCommentsPopover.react": 23.3,
-                                                    "553655735.igds.popover.PolarisEmojiPopover.react": 1.2,
-                                                    "553655735.igds.popover.PolarisInboxTrayItemPopover.react": 17,
-                                                    "553655735.igds.popover.PolarisMoreContextMenu.react": 9.8,
-                                                    "553655735.igds.popover.PolarisStoriesV3FeedMediaStickerPopover.react": 8,
-                                                    "553655735.igds.popover.PolarisStoriesV3LinkStickerPopover.react": 1.9,
-                                                    "553655735.igds.popover.PolarisStoriesV3MentionStickerPopover.react": 10.3,
-                                                    "553655735.mwp.dialog.IGDReactionsDialog.react": 1.3
+                                                    "553648129.polaris.DirectInboxPage": 45.3,
+                                                    "553648129.polaris.DirectThreadPage": 5.1,
+                                                    "553648129.polaris.OneTapUpsellPage": 22.7,
+                                                    "553648129.polaris.StoriesPage": 13.1,
+                                                    "553648129.polaris.UFAC": 1.4,
+                                                    "553648129.polaris.challenge": 8.4,
+                                                    "553648129.polaris.exploreLandingPage": 4.2,
+                                                    "553648129.polaris.feedPage": 253,
+                                                    "553648129.polaris.httpErrorPage": 17.8,
+                                                    "553648129.polaris.loginPage": 38.6,
+                                                    "553648129.polaris.postPage": 232.6,
+                                                    "553648129.polaris.profileCardPage": 5.5,
+                                                    "553648129.polaris.profilePage": 242.2,
+                                                    "553648129.polaris.reelsTab": 3.6,
+                                                    "553648129.polaris.resetPassword": 1.6,
+                                                    "553648129.polaris.unifiedHome": 50.3,
+                                                    "553648130.comet.fx.accounts_center.section": 1.4,
+                                                    "553648130.polaris.ActivityFeedPage": 9.6,
+                                                    "553648130.polaris.DirectEphemeralMediaPage": 1.2,
+                                                    "553648130.polaris.DirectInboxPage": 370.8,
+                                                    "553648130.polaris.DirectRequestPage": 3.9,
+                                                    "553648130.polaris.KeywordSearchExplorePage": 3.1,
+                                                    "553648130.polaris.SavedCollectionPage": 9.6,
+                                                    "553648130.polaris.StoriesPage": 802.9,
+                                                    "553648130.polaris.accountSettingsPage": 2.8,
+                                                    "553648130.polaris.archiveStories": 1.5,
+                                                    "553648130.polaris.editProfile": 1.9,
+                                                    "553648130.polaris.exploreLandingPage": 63.3,
+                                                    "553648130.polaris.exploreSearchPage": 22.8,
+                                                    "553648130.polaris.feedPage": 328.8,
+                                                    "553648130.polaris.followList": 9.1,
+                                                    "553648130.polaris.loginPage": 2.7,
+                                                    "553648130.polaris.mobileAllCommentsPage": 14.1,
+                                                    "553648130.polaris.multiStepSignupPage": 3.3,
+                                                    "553648130.polaris.postPage": 85.2,
+                                                    "553648130.polaris.profilePage": 419.7,
+                                                    "553648130.polaris.reelsTab": 13.1,
+                                                    "553648130.polaris.resetPassword": 1.6,
+                                                    "553648130.polaris.unifiedHome": 1.7,
+                                                    "553655735.comet.dialog.IGDChatSettingsDeleteThreadDialog.react": 2.4,
+                                                    "553655735.comet.dialog.IGDMediaViewer.react": 14.8,
+                                                    "553655735.comet.dialog.PolarisLoggedOutIntentDialog.react": 2.8,
+                                                    "553655735.comet.dialog.PolarisPostLikedByListDialogRoot.react": 3.7,
+                                                    "553655735.comet.dialog.PolarisProfileOwnOptionsDialog.react": 1.4,
+                                                    "553655735.comet.dialog.PolarisShareMenuDialog.react": 12.2,
+                                                    "553655735.igds.modal.IGDEditThreadNameDialog.react": 7.2,
+                                                    "553655735.igds.modal.IGDMessageUnsendDialog.react": 6.8,
+                                                    "553655735.igds.modal.IGDSecureShareSheetDialog.react": 3.2,
+                                                    "553655735.igds.modal.IGDThreadListNewMessageDialog.react": 1.1,
+                                                    "553655735.igds.modal.PolarisAboutThisAccountDialog.next.react": 1.4,
+                                                    "553655735.igds.modal.PolarisCreationModal.next.react": 2.2,
+                                                    "553655735.igds.modal.PolarisFollowListModalWrapper.react": 16.9,
+                                                    "553655735.igds.modal.PolarisFollowingActionsModal.next.react": 2.3,
+                                                    "553655735.igds.modal.PolarisProfileOtherOptionsDialog.react": 2.9,
+                                                    "553655735.igds.modal.PolarisStoriesV3ReelOptionsDialog.react": 1.8,
+                                                    "553655735.igds.modal.PolarisStoriesV3ViewerListDialog.react": 4.8,
+                                                    "553655735.igds.modal.PolarisUnfollowDialog.react": 6.6,
+                                                    "553655735.igds.popover.IGDComposerEmojiPicker.react": 15.9,
+                                                    "553655735.igds.popover.IGDComposerEmojiPickerPopover.react": 20.1,
+                                                    "553655735.igds.popover.IGDMessageContextMenu.react": 12,
+                                                    "553655735.igds.popover.PolarisClipsDesktopCommentsPopover.react": 21,
+                                                    "553655735.igds.popover.PolarisEmojiPopover.react": 1.1,
+                                                    "553655735.igds.popover.PolarisInboxTrayItemPopover.react": 15.9,
+                                                    "553655735.igds.popover.PolarisMoreContextMenu.react": 8.9,
+                                                    "553655735.igds.popover.PolarisStoriesV3FeedMediaStickerPopover.react": 7.2,
+                                                    "553655735.igds.popover.PolarisStoriesV3LinkStickerPopover.react": 1.7,
+                                                    "553655735.igds.popover.PolarisStoriesV3MentionStickerPopover.react": 9.6
                                                 }
                                             },
                                             "qpl": { "modules": {}, "events": {} },
@@ -6358,133 +6355,6 @@
                                 ["IGCookieSettingsLoggedOutConfig", [], { "should_show_cookie_settings": true }, 7434],
                                 ["PolarisLoggedOutDarkModeExposure", [], { "xplatform": { "has_lox_dark_mode_available": true } }, 7931],
                                 ["PolarisExperimentUtils", [], { "is_logged_out_user": true, "is_logged_out_user_ssr": false, "use_landing_dialog_v2": false, "landing_dialog_v2_variant": 0 }, 7968],
-                                [
-                                    "DateFormatConfig",
-                                    [],
-                                    {
-                                        "numericDateOrder": ["d", "m", "y"],
-                                        "numericDateSeparator": ".",
-                                        "shortDayNames": ["\u041f\u043d", "\u0412\u0442", "\u0421\u0440", "\u0427\u0442", "\u041f\u0442", "\u0421\u0431", "\u0412\u0441"],
-                                        "narrowDayNames": ["\u041f", "\u0412", "\u0421\u0440", "\u0427", "\u041f\u0442", "\u0421", "\u0412"],
-                                        "timeSeparator": ":",
-                                        "weekStart": 0,
-                                        "formats": {
-                                            "D": "D",
-                                            "D g:ia": "D G:i",
-                                            "D M d": "j F Y \\\u0433\\.",
-                                            "D M d, Y": "j F Y \\\u0433\\.",
-                                            "D M j": "j F Y \\\u0433\\.",
-                                            "D M j, g:ia": "j F Y \\\u0433\\. G:i",
-                                            "D M j, y": "j F Y \\\u0433\\.",
-                                            "D M j, Y g:ia": "j F Y \\\u0433\\. G:i",
-                                            "D, M j, Y": "j F Y \\r\\.",
-                                            "F d": "j F",
-                                            "F d, Y": "j F Y \\\u0433\\.",
-                                            "F g": "j F",
-                                            "F j": "j F",
-                                            "F j, Y": "j F Y \\\u0433\\.",
-                                            "F j, Y \u0040 g:i A": "j F Y \\\u0433\\. G:i",
-                                            "F j, Y g:i a": "j F Y \\\u0433\\. G:i",
-                                            "F jS": "j F",
-                                            "F jS, g:ia": "j F \\\u0433\\. G:i",
-                                            "F jS, Y": "j F Y \\\u0433\\.",
-                                            "F Y": "f Y \\\u0433\\.",
-                                            "g A": "G",
-                                            "g:i": "G:i",
-                                            "g:i A": "G:i",
-                                            "g:i a": "G:i",
-                                            "g:iA": "G:i",
-                                            "g:ia": "G:i",
-                                            "g:ia F jS, Y": "j F Y \\\u0433\\. G:i",
-                                            "g:iA l, F jS": "j F Y \\\u0433\\. G:i",
-                                            "g:ia M j": "j F \\\u0433\\. G:i",
-                                            "g:ia M jS": "j F \\\u0433\\. G:i",
-                                            "g:ia, F jS": "j F \\\u0433\\. G:i",
-                                            "g:iA, l M jS": "j F Y \\\u0433\\. G:i",
-                                            "g:sa": "G:i",
-                                            "H:I - M d, Y": "j F Y \\\u0433\\. G:i",
-                                            "h:i a": "G:i",
-                                            "h:m:s m\/d\/Y": "d.m.Y G:i:s",
-                                            "j": "j",
-                                            "l F d, Y": "j F Y \\\u0433\\.",
-                                            "l g:ia": "l G:i",
-                                            "l, F d, Y": "j F Y \\\u0433\\.",
-                                            "l, F j": "j F Y \\\u0433\\.",
-                                            "l, F j, Y": "j F Y \\\u0433\\.",
-                                            "l, F jS": "j F Y \\\u0433\\.",
-                                            "l, F jS, g:ia": "j F Y \\\u0433\\. G:i",
-                                            "l, M j": "j F Y \\\u0433\\.",
-                                            "l, M j, Y": "j F Y \\\u0433\\.",
-                                            "l, M j, Y g:ia": "j F Y \\\u0433\\. G:i",
-                                            "M d": "j F",
-                                            "M d, Y": "j F Y \\\u0433\\.",
-                                            "M d, Y g:ia": "j F Y \\\u0433\\. G:i",
-                                            "M d, Y ga": "j F Y \\\u0433\\. G",
-                                            "M j": "j F",
-                                            "M j, Y": "j F Y \\\u0433\\.",
-                                            "M j, Y g:i A": "j F Y \\\u0433\\. G:i",
-                                            "M j, Y g:ia": "j F Y \\\u0433\\. G:i",
-                                            "M jS, g:ia": "j F \\\u0433\\. G:i",
-                                            "M Y": "f Y \\\u0433\\.",
-                                            "M y": "j F",
-                                            "m-d-y": "d.m.Y",
-                                            "M. d": "j F",
-                                            "M. d, Y": "j F Y \\\u0433\\.",
-                                            "j F Y": "j F Y",
-                                            "m.d.y": "d.m.Y",
-                                            "m\/d": "d.m",
-                                            "m\/d\/Y": "d.m.Y",
-                                            "m\/d\/y": "d.m.Y",
-                                            "m\/d\/Y g:ia": "d.m.Y G:i",
-                                            "m\/d\/y H:i:s": "d.m.Y G:i:s",
-                                            "m\/d\/Y h:m": "d.m.Y G:i:s",
-                                            "n": "d.m",
-                                            "n\/j": "d.m",
-                                            "n\/j, g:ia": "d.m.Y G:i",
-                                            "n\/j\/y": "d.m.Y",
-                                            "Y": "Y \\\u0433\\.",
-                                            "Y-m-d": "d.m.Y",
-                                            "Y\/m\/d": "d.m.Y",
-                                            "y\/m\/d": "d.m.Y",
-                                            "F": "f",
-                                            "j F Y \\\u0433\\.": "j F Y \\\u0433\\."
-                                        },
-                                        "ordinalSuffixes": {
-                                            "1": "-\u043e\u0435",
-                                            "2": "-\u043e\u0435",
-                                            "3": "-\u0435",
-                                            "4": "-\u043e\u0435",
-                                            "5": "-oe",
-                                            "6": "-\u043e\u0435",
-                                            "7": "-\u043e\u0435",
-                                            "8": "-\u043e\u0435",
-                                            "9": "-oe",
-                                            "10": "-\u043e\u0435",
-                                            "11": "-oe",
-                                            "12": "-oe",
-                                            "13": "-\u043e\u0435",
-                                            "14": "-oe",
-                                            "15": "-\u043e\u0435",
-                                            "16": "-oe",
-                                            "17": "-\u043e\u0435",
-                                            "18": "-oe",
-                                            "19": "-\u043e\u0435",
-                                            "20": "-\u043e\u0435",
-                                            "21": "-\u043e\u0435",
-                                            "22": "-\u043e\u0435",
-                                            "23": "-\u0435",
-                                            "24": "-\u043e\u0435",
-                                            "25": "-\u043e\u0435",
-                                            "26": "-oe",
-                                            "27": "-oe",
-                                            "28": "-\u043e\u0435",
-                                            "29": "-oe",
-                                            "30": "-\u043e\u0435",
-                                            "31": "-\u043e\u0435"
-                                        }
-                                    },
-                                    165
-                                ],
                                 ["BrowserPushPubKey", [], { "appServerKey": "BIBn3E_rWTci8Xn6P9Xj3btShT85Wdtne0LtwNUyRQ5XjFNkuTq9j4MPAVLvAFhXrUU1A9UxyxBA7YIOjqDIDHI" }, 4806],
                                 [
                                     "XIGSharedData",
@@ -7012,7 +6882,7 @@
                                     },
                                     2609
                                 ],
-                                ["MqttWebDeviceID", [], { "clientID": "0a8a857a-104a-477b-8fe2-a2483519f619" }, 5003],
+                                ["MqttWebDeviceID", [], { "clientID": "fef1e109-ebe7-470d-90a8-2de87fa4c516" }, 5003],
                                 ["cr:2306", ["NullState404FailedLoadingFB"], { "__rc": ["NullState404FailedLoadingFB", null] }, -1],
                                 ["cr:3211", ["NullStateGeneralFB"], { "__rc": ["NullStateGeneralFB", null] }, -1],
                                 ["cr:3587", ["NullStatePermissionsFB"], { "__rc": ["NullStatePermissionsFB", null] }, -1],
@@ -7081,6 +6951,8 @@
                                     { "desktop": {}, "mweb": {}, "xplatform": { "show_blocking_content_wall_for_all_content": false, "show_sign_up_focused_blocking_content_wall": false } },
                                     7946
                                 ],
+                                ["PolarisLoggedOutContentWallExposure", [], { "desktop": {}, "mweb": {}, "xplatform": { "impression_limit": 3, "impression_session_time": 30 } }, 7995],
+                                ["PolarisLoggedOutDesktopBannersExposure", [], { "desktop": { "desktop_show_sign_up_as_primary_cta": false } }, 7958],
                                 ["PolarisLoggedOutTopNavExposure", [], { "mweb": { "is_mobile_ig_logo_signup": false, "show_top_nav_sign_up_button": false, "primary_cta": "open_app", "secondary_cta": "login" } }, 7920],
                                 ["cr:5695", ["EventListenerWWW"], { "__rc": ["EventListenerWWW", null] }, -1],
                                 ["cr:8909", ["ReactFiberErrorDialogWWW"], { "__rc": ["ReactFiberErrorDialogWWW", null] }, -1],
@@ -7091,7 +6963,137 @@
                                 ["cr:694370", ["requestIdleCallbackComet"], { "__rc": ["requestIdleCallbackComet", null] }, -1],
                                 ["DataStoreConfig", [], { "expandoKey": "__FB_STORE", "useExpando": true }, 2915],
                                 ["cr:1353359", ["CometEventListener"], { "__rc": ["CometEventListener", null] }, -1],
+                                ["WebConnectionClassServerGuess", [], { "connectionClass": "EXCELLENT" }, 4705],
                                 ["YouthRegulationConfig", [], { "config": null }, 7506],
+                                ["WebDevicePerfClassData", [], { "deviceLevel": "unknown", "yearClass": null }, 3665],
+                                ["PolarisIgLiteLoggedOutUpsellsExposure", [], { "global_4gb_and_above_enabled": false }, 7928],
+                                [
+                                    "DateFormatConfig",
+                                    [],
+                                    {
+                                        "numericDateOrder": ["d", "m", "y"],
+                                        "numericDateSeparator": ".",
+                                        "shortDayNames": ["\u041f\u043d", "\u0412\u0442", "\u0421\u0440", "\u0427\u0442", "\u041f\u0442", "\u0421\u0431", "\u0412\u0441"],
+                                        "narrowDayNames": ["\u041f", "\u0412", "\u0421\u0440", "\u0427", "\u041f\u0442", "\u0421", "\u0412"],
+                                        "timeSeparator": ":",
+                                        "weekStart": 0,
+                                        "formats": {
+                                            "D": "D",
+                                            "D g:ia": "D G:i",
+                                            "D M d": "j F Y \\\u0433\\.",
+                                            "D M d, Y": "j F Y \\\u0433\\.",
+                                            "D M j": "j F Y \\\u0433\\.",
+                                            "D M j, g:ia": "j F Y \\\u0433\\. G:i",
+                                            "D M j, y": "j F Y \\\u0433\\.",
+                                            "D M j, Y g:ia": "j F Y \\\u0433\\. G:i",
+                                            "D, M j, Y": "j F Y \\r\\.",
+                                            "F d": "j F",
+                                            "F d, Y": "j F Y \\\u0433\\.",
+                                            "F g": "j F",
+                                            "F j": "j F",
+                                            "F j, Y": "j F Y \\\u0433\\.",
+                                            "F j, Y \u0040 g:i A": "j F Y \\\u0433\\. G:i",
+                                            "F j, Y g:i a": "j F Y \\\u0433\\. G:i",
+                                            "F jS": "j F",
+                                            "F jS, g:ia": "j F \\\u0433\\. G:i",
+                                            "F jS, Y": "j F Y \\\u0433\\.",
+                                            "F Y": "f Y \\\u0433\\.",
+                                            "g A": "G",
+                                            "g:i": "G:i",
+                                            "g:i A": "G:i",
+                                            "g:i a": "G:i",
+                                            "g:iA": "G:i",
+                                            "g:ia": "G:i",
+                                            "g:ia F jS, Y": "j F Y \\\u0433\\. G:i",
+                                            "g:iA l, F jS": "j F Y \\\u0433\\. G:i",
+                                            "g:ia M j": "j F \\\u0433\\. G:i",
+                                            "g:ia M jS": "j F \\\u0433\\. G:i",
+                                            "g:ia, F jS": "j F \\\u0433\\. G:i",
+                                            "g:iA, l M jS": "j F Y \\\u0433\\. G:i",
+                                            "g:sa": "G:i",
+                                            "H:I - M d, Y": "j F Y \\\u0433\\. G:i",
+                                            "h:i a": "G:i",
+                                            "h:m:s m\/d\/Y": "d.m.Y G:i:s",
+                                            "j": "j",
+                                            "l F d, Y": "j F Y \\\u0433\\.",
+                                            "l g:ia": "l G:i",
+                                            "l, F d, Y": "j F Y \\\u0433\\.",
+                                            "l, F j": "j F Y \\\u0433\\.",
+                                            "l, F j, Y": "j F Y \\\u0433\\.",
+                                            "l, F jS": "j F Y \\\u0433\\.",
+                                            "l, F jS, g:ia": "j F Y \\\u0433\\. G:i",
+                                            "l, M j": "j F Y \\\u0433\\.",
+                                            "l, M j, Y": "j F Y \\\u0433\\.",
+                                            "l, M j, Y g:ia": "j F Y \\\u0433\\. G:i",
+                                            "M d": "j F",
+                                            "M d, Y": "j F Y \\\u0433\\.",
+                                            "M d, Y g:ia": "j F Y \\\u0433\\. G:i",
+                                            "M d, Y ga": "j F Y \\\u0433\\. G",
+                                            "M j": "j F",
+                                            "M j, Y": "j F Y \\\u0433\\.",
+                                            "M j, Y g:i A": "j F Y \\\u0433\\. G:i",
+                                            "M j, Y g:ia": "j F Y \\\u0433\\. G:i",
+                                            "M jS, g:ia": "j F \\\u0433\\. G:i",
+                                            "M Y": "f Y \\\u0433\\.",
+                                            "M y": "j F",
+                                            "m-d-y": "d.m.Y",
+                                            "M. d": "j F",
+                                            "M. d, Y": "j F Y \\\u0433\\.",
+                                            "j F Y": "j F Y",
+                                            "m.d.y": "d.m.Y",
+                                            "m\/d": "d.m",
+                                            "m\/d\/Y": "d.m.Y",
+                                            "m\/d\/y": "d.m.Y",
+                                            "m\/d\/Y g:ia": "d.m.Y G:i",
+                                            "m\/d\/y H:i:s": "d.m.Y G:i:s",
+                                            "m\/d\/Y h:m": "d.m.Y G:i:s",
+                                            "n": "d.m",
+                                            "n\/j": "d.m",
+                                            "n\/j, g:ia": "d.m.Y G:i",
+                                            "n\/j\/y": "d.m.Y",
+                                            "Y": "Y \\\u0433\\.",
+                                            "Y-m-d": "d.m.Y",
+                                            "Y\/m\/d": "d.m.Y",
+                                            "y\/m\/d": "d.m.Y",
+                                            "F": "f",
+                                            "j F Y \\\u0433\\.": "j F Y \\\u0433\\."
+                                        },
+                                        "ordinalSuffixes": {
+                                            "1": "-\u043e\u0435",
+                                            "2": "-\u043e\u0435",
+                                            "3": "-\u0435",
+                                            "4": "-\u043e\u0435",
+                                            "5": "-oe",
+                                            "6": "-\u043e\u0435",
+                                            "7": "-\u043e\u0435",
+                                            "8": "-\u043e\u0435",
+                                            "9": "-oe",
+                                            "10": "-\u043e\u0435",
+                                            "11": "-oe",
+                                            "12": "-oe",
+                                            "13": "-\u043e\u0435",
+                                            "14": "-oe",
+                                            "15": "-\u043e\u0435",
+                                            "16": "-oe",
+                                            "17": "-\u043e\u0435",
+                                            "18": "-oe",
+                                            "19": "-\u043e\u0435",
+                                            "20": "-\u043e\u0435",
+                                            "21": "-\u043e\u0435",
+                                            "22": "-\u043e\u0435",
+                                            "23": "-\u0435",
+                                            "24": "-\u043e\u0435",
+                                            "25": "-\u043e\u0435",
+                                            "26": "-oe",
+                                            "27": "-oe",
+                                            "28": "-\u043e\u0435",
+                                            "29": "-oe",
+                                            "30": "-\u043e\u0435",
+                                            "31": "-\u043e\u0435"
+                                        }
+                                    },
+                                    165
+                                ],
                                 [
                                     "CountryNamesConfig",
                                     [],
@@ -7352,15 +7354,11 @@
                                     },
                                     3614
                                 ],
-                                ["PolarisLoggedOutDesktopBannersExposure", [], { "desktop": { "desktop_show_sign_up_as_primary_cta": false } }, 7958],
-                                ["WebConnectionClassServerGuess", [], { "connectionClass": "EXCELLENT" }, 4705],
-                                ["WebDevicePerfClassData", [], { "deviceLevel": "unknown", "yearClass": null }, 3665],
-                                ["PolarisLoggedOutContentWallExposure", [], { "desktop": {}, "mweb": {}, "xplatform": { "impression_limit": 3, "impression_session_time": 30 } }, 7995],
                                 [
                                     "AnalyticsCoreData",
                                     [],
                                     {
-                                        "device_id": "$^|AcbvkTLTEuEDzYGhUfdnbEw4uQc3avpurZLMnKaIYd1i8Sdx9comfQ9b43t8c8DhinsV08SwFabziAJ1WYUtHn6dM56OmYI|DC7573D9-ED2D-4459-864F-7EE5C30BD9F6",
+                                        "device_id": "$^|AcaUYhXtOgaTiYLm3Ol5Ozwj6Khc8mKLJnifZei-8kpV72CCHKgstou1p6g-zr7kvl5hQP-BuG-bjSsJOvsbAon4GbTHBBE|DC7573D9-ED2D-4459-864F-7EE5C30BD9F6",
                                         "app_id": "936619743392459",
                                         "enable_bladerunner": false,
                                         "enable_ack": true,
@@ -7380,16 +7378,15 @@
                                         "use_falco_as_mutex_key": false,
                                         "is_intern": false,
                                         "enable_session_id_bug_fix": true,
-                                        "identity": { "appScopedIdentity": "", "claim": "hmac.AR0m9T1G_cOAe6p04Jqf3OFJz0TII0vOOBnQ3JFM8GGtrodw" },
+                                        "identity": { "appScopedIdentity": "", "claim": "hmac.AR0m9T1G_cOAe6p04Jqf3OFJz0TII0vOOBnQ3JFM8GGtrlmN" },
                                         "app_version": "1.0.0"
                                     },
                                     5237
-                                ],
-                                ["PolarisIgLiteLoggedOutUpsellsExposure", [], { "global_4gb_and_above_enabled": false }, 7928]
+                                ]
                             ],
                             "instances": [
                                 [
-                                    "__inst_af5d41d9_0_0_NU",
+                                    "__inst_af5d41d9_0_0_8x",
                                     ["XIGCometRoutedRootConfigBuilder"],
                                     [{ "service_worker_uri": "\/www-service-worker.js?s=push&__d=www", "pwa_share_service_worker_uri": "\/www-service-worker.js?s=push&pwa_share=1", "ssr_enabled": false }],
                                     1
@@ -7406,14 +7403,14 @@
                                 [
                                     "CometPlatformRootClient",
                                     "initialize",
-                                    ["__inst_af5d41d9_0_0_NU", "RequireDeferredReference"],
+                                    ["__inst_af5d41d9_0_0_8x", "RequireDeferredReference"],
                                     [
                                         {
-                                            "ConfigOrBuilder": { "__m": "__inst_af5d41d9_0_0_NU" },
+                                            "ConfigOrBuilder": { "__m": "__inst_af5d41d9_0_0_8x" },
                                             "backgroundRouteInfo": { "route": null, "timeSpentMetaData": null },
                                             "additional_roots": [],
-                                            "client_id": "7438392265990496288",
-                                            "rootElementID": "mount_0_0_BM",
+                                            "client_id": "7438398572741279303",
+                                            "rootElementID": "mount_0_0_Zc",
                                             "expectedPreloaders": null,
                                             "initialRouteInfo": {
                                                 "route": {
@@ -7496,15 +7493,15 @@
                             ]
                         }
                     },
-                    { "__bbox": { "require": [["qplTimingsServerJS", null, null, ["7438392265990496288", "tierOneBeforeScheduler"]]] } },
-                    { "__bbox": { "require": [["qplTimingsServerJS", null, null, ["7438392265990496288", "tierOneInsideScheduler"]]] } }
+                    { "__bbox": { "require": [["qplTimingsServerJS", null, null, ["7438398572741279303", "tierOneBeforeScheduler"]]] } },
+                    { "__bbox": { "require": [["qplTimingsServerJS", null, null, ["7438398572741279303", "tierOneInsideScheduler"]]] } }
                 ]
             ]
         ]
     }
 </script>
 <script type="application/json" data-content-len="83" data-sjs="">
-    { "require": [["qplTimingsServerJS", null, null, ["7438392265990496288", "tierOneEnd"]]] }
+    { "require": [["qplTimingsServerJS", null, null, ["7438398572741279303", "tierOneEnd"]]] }
 </script>
 
 <script type="application/json" data-content-len="105" data-sjs="">
@@ -7514,8 +7511,8 @@
 <script type="application/json" data-content-len="158" data-sjs="">
     {
         "require": [
-            ["qplTimingsServerJS", null, null, ["7438392265990496288", "tierTwo"]],
-            ["qplTimingsServerJS", null, null, ["7438392265990496288-server", "tierTwo", 128]]
+            ["qplTimingsServerJS", null, null, ["7438398572741279303", "tierTwo"]],
+            ["qplTimingsServerJS", null, null, ["7438398572741279303-server", "tierTwo", 140]]
         ]
     }
 </script>
@@ -8818,16 +8815,16 @@
                                     "MRequestConfig",
                                     [],
                                     {
-                                        "dtsg": { "token": "NAcNIcCcB_YsnLuYrkATjvnLzSItjnZqdo1Klwe0q-9Q0aw9exIWO4A:0:0", "valid_for": 86400, "expire": 1731972059 },
-                                        "dtsg_ag": { "token": "AQy82d29KO6p4ddKb5iPDLMD1yAmWPKq67HhqM4iZDfww8OC:0:0", "valid_for": 604800, "expire": 1732490459 },
-                                        "lsd": "AVqPgvsSxo8",
+                                        "dtsg": { "token": "NAcM1shFrn_ZKxhXM2ZuS4yHQ7gyow1ZVdtIWYlsfXlVYE83POAKh2w:0:0", "valid_for": 86400, "expire": 1731973527 },
+                                        "dtsg_ag": { "token": "AQy82d29KO6p4ddKb5iPDLMD1yAmWPKq67HhqM4iZDfww6OD:0:0", "valid_for": 604800, "expire": 1732491927 },
+                                        "lsd": "AVqPgvsS8UA",
                                         "checkResponseOrigin": true,
                                         "checkResponseToken": true,
                                         "cleanFinishedRequest": false,
                                         "cleanFinishedPrefetchRequests": false,
                                         "ajaxResponseToken": {
-                                            "secret": "jDozXU-oc5wrJw62fzfH26yfqhKrn9d_",
-                                            "encrypted": "AYnj0WOSM-LRXN4mr1Iq7-xMs3wLxPpBUCKvAlYgBEsk52Osp2gVZbLgjTy3TDSBlOquyoiAgQ-6OiqN3GYXgR6KniQVqF2XOkb3heZWBXeuIA"
+                                            "secret": "LC4xfbzicDJc5I2J0WMr-7M3LV3LvDft",
+                                            "encrypted": "AYnFYINd9SDu83wcqu1S1pfqejr81lt3JQkCfO6YbVEQArUcYp1T6mlhDAOFLfWzvEfwMNsMFz657DqmJHGBwtZfja2P2RZyqpaE39bZdoNz5w"
                                         }
                                     },
                                     51
@@ -8898,22 +8895,22 @@
                             ]
                         }
                     },
-                    { "__bbox": { "require": [["qplTimingsServerJS", null, null, ["7438392265990496288", "tierTwoBeforeScheduler"]]] } },
-                    { "__bbox": { "require": [["qplTimingsServerJS", null, null, ["7438392265990496288", "tierTwoInsideScheduler"]]] } }
+                    { "__bbox": { "require": [["qplTimingsServerJS", null, null, ["7438398572741279303", "tierTwoBeforeScheduler"]]] } },
+                    { "__bbox": { "require": [["qplTimingsServerJS", null, null, ["7438398572741279303", "tierTwoInsideScheduler"]]] } }
                 ]
             ]
         ]
     }
 </script>
 <script type="application/json" data-content-len="83" data-sjs="">
-    { "require": [["qplTimingsServerJS", null, null, ["7438392265990496288", "tierTwoEnd"]]] }
+    { "require": [["qplTimingsServerJS", null, null, ["7438398572741279303", "tierTwoEnd"]]] }
 </script>
 
 <script type="application/json" data-content-len="162" data-sjs="">
     {
         "require": [
-            ["qplTimingsServerJS", null, null, ["7438392265990496288", "tierThree"]],
-            ["qplTimingsServerJS", null, null, ["7438392265990496288-server", "tierThree", 154]]
+            ["qplTimingsServerJS", null, null, ["7438398572741279303", "tierThree"]],
+            ["qplTimingsServerJS", null, null, ["7438398572741279303-server", "tierThree", 162]]
         ]
     }
 </script>
@@ -8949,8 +8946,8 @@
                             "1750245": { "r": 1, "s": 1 }
                         },
                         "gkxData": {
-                            "24007": { "result": false, "hash": "AT7D7HYlifflFcPxTJ4" },
-                            "25358": { "result": false, "hash": "AT4p7a_rbUvSvEQ56B0" },
+                            "24007": { "result": false, "hash": "AT7D7HYlifflFcPxO0Y" },
+                            "25358": { "result": false, "hash": "AT4p7a_rbUvSvEQ5Ogs" },
                             "20919": { "result": true, "hash": null },
                             "20929": { "result": true, "hash": null },
                             "21119": { "result": false, "hash": null },
@@ -9299,7 +9296,7 @@
                                 ],
                                 ["AdsManagerReadRegions", [], { "excluded_endpoints": ["\/am_tabular"] }, 7950],
                                 ["AsyncRequestConfig", [], { "retryOnNetworkError": "1", "useFetchStreamAjaxPipeTransport": true }, 328],
-                                ["SessionNameConfig", [], { "seed": "0qIj" }, 757],
+                                ["SessionNameConfig", [], { "seed": "0d7Y" }, 757],
                                 ["WebDevicePerfInfoData", [], { "needsFullUpdate": true, "needsPartialUpdate": false, "shouldLogResourcePerf": false }, 3977],
                                 ["DGWWebConfig", [], { "appId": "936619743392459", "appVersion": "0", "dgwVersion": "2", "endpoint": "", "fbId": "0", "authType": "" }, 5508],
                                 ["WebStorageMonsterLoggingURI", [], { "uri": null }, 3032],
@@ -9741,7 +9738,7 @@
                                     "CometPlatformRootClient",
                                     "setInitDeferredPayload",
                                     [],
-                                    [{ "sketchInfo": null, "userID": 0, "deferredCookies": {}, "blLoggingCavalryFields": { "bl_sample_rate": 0, "hr_sample_rate": 0, "parent_lid": "7438392265990496288" } }]
+                                    [{ "sketchInfo": null, "userID": 0, "deferredCookies": {}, "blLoggingCavalryFields": { "bl_sample_rate": 0, "hr_sample_rate": 0, "parent_lid": "7438398572741279303" } }]
                                 ],
                                 ["MqttLongPollingRunner"],
                                 ["Chromedome"],
@@ -9855,15 +9852,15 @@
                             ]
                         }
                     },
-                    { "__bbox": { "require": [["qplTimingsServerJS", null, null, ["7438392265990496288", "tierThreeBeforeScheduler"]]] } },
-                    { "__bbox": { "require": [["qplTimingsServerJS", null, null, ["7438392265990496288", "tierThreeInsideScheduler"]]] } }
+                    { "__bbox": { "require": [["qplTimingsServerJS", null, null, ["7438398572741279303", "tierThreeBeforeScheduler"]]] } },
+                    { "__bbox": { "require": [["qplTimingsServerJS", null, null, ["7438398572741279303", "tierThreeInsideScheduler"]]] } }
                 ]
             ]
         ]
     }
 </script>
 <script type="application/json" data-content-len="85" data-sjs="">
-    { "require": [["qplTimingsServerJS", null, null, ["7438392265990496288", "tierThreeEnd"]]] }
+    { "require": [["qplTimingsServerJS", null, null, ["7438398572741279303", "tierThreeEnd"]]] }
 </script>
 
 <script type="application/json" data-content-len="4193" data-sjs="">
@@ -9875,7 +9872,7 @@
                 null,
                 [
                     {
-                        "7438392265990496288": {
+                        "7438398572741279303": {
                             "css\/3f7jfciyi6skogcc.pkg,css\/20cb3qa4xwbo444s.pkg,css\/3aho6engjg6cs8sk.pkg.__composite__.css": {
                                 "url": "https:\/\/static.cdninstagram.com\/rsrc.php\/v4\/yH\/l\/0,cross\/CfDg5A77JPwcyf8QhNEWE-MbVu6J6TSgC.css",
                                 "refs": ["htmlStart", "tierOne", "tierTwo", "tierThree"]
@@ -9914,31 +9911,31 @@
 <script type="application/json" data-content-len="69" data-sjs="">
     { "require": [["qplTagServerJS", null, null, [["lastServerTagFlushed"]]]] }
 </script>
-<script type="application/json" data-content-len="1924" data-sjs="">
+<script type="application/json" data-content-len="1926" data-sjs="">
     {
         "require": [
-            ["qplTimingsServerJS", null, null, ["7438392265990496288-server", "earlyFlushStart", 17]],
-            ["qplTimingsServerJS", null, null, ["7438392265990496288-server", "genPreloadersStart", 18]],
-            ["qplTimingsServerJS", null, null, ["7438392265990496288-server", "genRouteStart", 18]],
-            ["qplTimingsServerJS", null, null, ["7438392265990496288-server", "genRouteEnd", 20]],
-            ["qplTimingsServerJS", null, null, ["7438392265990496288-server", "genPreloadersEnd", 20]],
-            ["qplTimingsServerJS", null, null, ["7438392265990496288-server", "genEFRsrcStart", 23]],
-            ["qplTimingsServerJS", null, null, ["7438392265990496288-server", "genEFRsrcEnd", 29]],
-            ["qplTimingsServerJS", null, null, ["7438392265990496288-server", "earlyFlushEnd", 31]],
-            ["qplTimingsServerJS", null, null, ["7438392265990496288-server", "cometPageRender", 33]],
-            ["qplTimingsServerJS", null, null, ["7438392265990496288-server", "genTierOneStart", 34]],
-            ["qplTimingsServerJS", null, null, ["7438392265990496288-server", "genRenderSplashScreenStart", 34]],
-            ["qplTimingsServerJS", null, null, ["7438392265990496288-server", "genRenderSplashScreenEnd", 35]],
-            ["qplTimingsServerJS", null, null, ["7438392265990496288-server", "tierOnePreloadersFinished", 78]],
-            ["qplTimingsServerJS", null, null, ["7438392265990496288-server", "genTierOneEnd", 92]],
-            ["qplTimingsServerJS", null, null, ["7438392265990496288-server", "genTierTwoStart", 96]],
-            ["qplTimingsServerJS", null, null, ["7438392265990496288-server", "genTierTwoEnd", 126]],
-            ["qplTimingsServerJS", null, null, ["7438392265990496288-server", "tierTwoPreloadersFinished", 129]],
-            ["qplTimingsServerJS", null, null, ["7438392265990496288-server", "genTierThreeStart", 129]],
-            ["qplTimingsServerJS", null, null, ["7438392265990496288-server", "genTierThreeEnd", 153]],
-            ["qplTimingsServerJS", null, null, ["7438392265990496288-server", "tierThreePreloadersFinished", 155]],
-            ["qplTimingsServerJS", null, null, ["7438392265990496288-server", "responseStart", 1]],
-            ["qplTimingsServerJS", null, null, ["7438392265990496288-server", "responseEnd", 155]]
+            ["qplTimingsServerJS", null, null, ["7438398572741279303-server", "earlyFlushStart", 14]],
+            ["qplTimingsServerJS", null, null, ["7438398572741279303-server", "genPreloadersStart", 14]],
+            ["qplTimingsServerJS", null, null, ["7438398572741279303-server", "genRouteStart", 14]],
+            ["qplTimingsServerJS", null, null, ["7438398572741279303-server", "genRouteEnd", 16]],
+            ["qplTimingsServerJS", null, null, ["7438398572741279303-server", "genPreloadersEnd", 16]],
+            ["qplTimingsServerJS", null, null, ["7438398572741279303-server", "genEFRsrcStart", 20]],
+            ["qplTimingsServerJS", null, null, ["7438398572741279303-server", "genEFRsrcEnd", 30]],
+            ["qplTimingsServerJS", null, null, ["7438398572741279303-server", "earlyFlushEnd", 31]],
+            ["qplTimingsServerJS", null, null, ["7438398572741279303-server", "cometPageRender", 32]],
+            ["qplTimingsServerJS", null, null, ["7438398572741279303-server", "genTierOneStart", 33]],
+            ["qplTimingsServerJS", null, null, ["7438398572741279303-server", "genRenderSplashScreenStart", 33]],
+            ["qplTimingsServerJS", null, null, ["7438398572741279303-server", "genRenderSplashScreenEnd", 34]],
+            ["qplTimingsServerJS", null, null, ["7438398572741279303-server", "tierOnePreloadersFinished", 81]],
+            ["qplTimingsServerJS", null, null, ["7438398572741279303-server", "genTierOneEnd", 100]],
+            ["qplTimingsServerJS", null, null, ["7438398572741279303-server", "genTierTwoStart", 104]],
+            ["qplTimingsServerJS", null, null, ["7438398572741279303-server", "genTierTwoEnd", 138]],
+            ["qplTimingsServerJS", null, null, ["7438398572741279303-server", "tierTwoPreloadersFinished", 141]],
+            ["qplTimingsServerJS", null, null, ["7438398572741279303-server", "genTierThreeStart", 141]],
+            ["qplTimingsServerJS", null, null, ["7438398572741279303-server", "genTierThreeEnd", 161]],
+            ["qplTimingsServerJS", null, null, ["7438398572741279303-server", "tierThreePreloadersFinished", 162]],
+            ["qplTimingsServerJS", null, null, ["7438398572741279303-server", "responseStart", 1]],
+            ["qplTimingsServerJS", null, null, ["7438398572741279303-server", "responseEnd", 163]]
         ]
     }
 </script>
@@ -9946,7 +9943,7 @@
     {}
 </script>
 <script type="application/json" data-content-len="193" data-sjs="">
-    { "require": [["CometQPLPayloadStore", "storePayloadBytesSent", null, [{ "htmlStart": [108696, 14738], "tierOne": [143851, 47746], "ssr_error": [181, 66], "tierTwo": [63846, 11001], "tierThree": [29023, 6343] }]]] }
+    { "require": [["CometQPLPayloadStore", "storePayloadBytesSent", null, [{ "htmlStart": [108695, 14739], "tierOne": [143704, 47692], "ssr_error": [181, 62], "tierTwo": [63846, 11003], "tierThree": [29023, 6335] }]]] }
 </script>
 <div id="has-finished-comet-page" hidden="" style="display: none;"></div>
 
